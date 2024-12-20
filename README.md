@@ -1,1 +1,1 @@
-# HandTeacking_openCV
+# HandTracking_openCV
